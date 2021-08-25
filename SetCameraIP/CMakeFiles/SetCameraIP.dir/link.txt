@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SetCameraIP.dir/SetIP.cpp.o  -o SetCameraIP  /opt/mvIMPACT_Acquire/lib/x86_64/libmvDeviceManager.so 

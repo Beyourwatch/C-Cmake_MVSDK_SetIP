@@ -1,0 +1,3 @@
+/opt/mvIMPACT_Acquire/apps/SetCameraIP/CMakeFiles/rebuild_cache.dir
+/opt/mvIMPACT_Acquire/apps/SetCameraIP/CMakeFiles/edit_cache.dir
+/opt/mvIMPACT_Acquire/apps/SetCameraIP/CMakeFiles/SetCameraIP.dir
